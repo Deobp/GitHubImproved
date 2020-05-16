@@ -1,0 +1,11 @@
+{
+    "name": "Githubimprover",
+    "version": "1.0",
+    "description": "Change backgroun in mainpage of GitHub into black. Remove adversting",
+    "content_scripts": [{
+        "matches": ["https://github.com/"],
+        "run_at": "document_idle",
+        "js": ["scripts.js"]
+    }],
+    "manifest_version": 2
+}
