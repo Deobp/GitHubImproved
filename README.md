@@ -1,2 +1,2 @@
 # GitHubImproved
-Changed backgrounds, removed adversting
+Changed backgrounds, removed advertising
